@@ -8,8 +8,13 @@
 
 > A curated list of awesome lists
 
+[What makes for an awesome list?](awesome.md)
 
-## TOC
+If you want to contribute, please read the [contribution guidelines](contributing.md).
+
+If you want to create your own list, please read the [create list instructions](create-list.md).
+
+## Table of Contents
 
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
@@ -42,6 +47,8 @@
 - [React Native](https://github.com/jondot/awesome-react-native)
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
+- [watchOS](https://github.com/yenchenlin1994/awesome-watchos)
+- [JVM](https://github.com/deephacks/awesome-jvm)
 
 
 ## Programming Languages
@@ -66,7 +73,7 @@
 - [C/C++](https://github.com/fffaraz/awesome-cpp)
 - [R](https://github.com/qinwf/awesome-R)
 - [D](https://github.com/zhaopuming/awesome-d)
-- [Common Lisp](https://github.com/kozross/awesome-cl)
+- [Common Lisp](https://github.com/CodyReichert/awesome-cl)
 - [Perl](https://github.com/hachiojipm/awesome-perl)
 - [Groovy](https://github.com/kdabir/awesome-groovy)
 - [Dart](https://github.com/yissachar/awesome-dart)
@@ -79,7 +86,9 @@
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
 - [Assembler](https://github.com/mat0thew/awesome-asm)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
+- [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
 - [Crystal](https://github.com/veelenga/awesome-crystal)
+- [TypeScript](https://github.com/dzharii/awesome-typescript)
 
 
 ## Front-end Development
@@ -95,8 +104,8 @@
 - [AngularJS](https://github.com/gianarb/awesome-angularjs)
 - [Backbone](https://github.com/instanceofpro/awesome-backbone)
 - [HTML5](https://github.com/diegocard/awesome-html5)
-- [Sass](https://github.com/HugoGiraudel/awesome-sass)
 - [SVG](https://github.com/willianjusten/awesome-svg)
+- [Canvas](https://github.com/raphamorim/awesome-canvas)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout)
 - [Dojo Toolkit](https://github.com/peterkokot/awesome-dojo)
 - [Inspiration](https://github.com/NoahBuscher/Inspire)
@@ -113,6 +122,7 @@
 - [Material Design](https://github.com/sachin1092/awesome-material)
 - [CSS](https://github.com/sota0805/awesome-css)
 - [D3](https://github.com/wbkd/awesome-d3)
+- [Emails](https://github.com/jonathandion/awesome-emails)
 
 
 ## Back-end Development
@@ -130,6 +140,7 @@
 - [Phalcon](https://github.com/sergeyklay/awesome-phalcon)
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess)
 - [nginx](https://github.com/fcambus/nginx-resources)
+- [Dropwizard](https://github.com/stve/awesome-dropwizard)
 
 
 ## Computer Science
@@ -195,14 +206,17 @@
 - [Shell](https://github.com/alebcay/awesome-shell)
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [Browser Extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
-- [Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
+- [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
+- [Git Tips](https://github.com/git-tips/tips)
+- [Git Add-ons](https://github.com/stevemao/awesome-git-addons)
 
 
 ## Entertainment
 
-- [Science Fiction](https://github.com/sindresorhus/awesome-scifi)
+- [Science Fiction](https://github.com/sindresorhus/awesome-scifi) *(Scifi)*
 - [Fantasy](https://github.com/RichardLitt/awesome-fantasy)
 - [Podcasts](https://github.com/cv/awesome-geek-podcasts)
+- [Email Newsletters](https://github.com/vredniy/awesome-newsletters)
 
 
 ## Databases
@@ -210,6 +224,7 @@
 - [Database](https://github.com/numetriclabz/awesome-db)
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
+- [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
 
 
 ## Resources
@@ -224,6 +239,7 @@
 
 - [CLI Workshoppers/Adventures](https://github.com/therebelrobot/awesome-workshopper)
 - [Learn to Program](https://github.com/karlhorky/learn-to-program)
+- [Speaking](https://github.com/matteofigus/awesome-speaking)
 
 
 ## Security
@@ -277,7 +293,15 @@
 - [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps)
 - [Gulp](https://github.com/alferov/awesome-gulp)
 - [AMA](https://github.com/sindresorhus/amas) *(Ask Me Anything)*
-
+- [AMA-answers](https://github.com/stoeffel/awesome-ama-answers)
+- [GIF](https://github.com/Syskaw/awesome-gif)
+- [Open Source Photography](https://github.com/Syskaw/awesome-OpenSourcePhotography/)
+- [OpenGL](https://github.com/eug/awesome-opengl)
+- [JavaScript Standard Style](https://github.com/feross/awesome-standard)
+- [Productivity](https://github.com/jyguyomarch/awesome-productivity)
+- [GraphQL](https://github.com/chentsulin/awesome-graphql)
+- [Transit](https://github.com/luqmaan/awesome-transit)
+- [Research Tools](https://github.com/emptymalei/awesome-research)
 
 ## License
 
