@@ -47,6 +47,7 @@ If you want to create your own list, please read the [create list instructions](
 - [React Native](https://github.com/jondot/awesome-react-native)
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
+- [OS X](https://github.com/iCHAIT/awesome-osx)
 - [watchOS](https://github.com/yenchenlin1994/awesome-watchos)
 - [JVM](https://github.com/deephacks/awesome-jvm)
 
@@ -137,6 +138,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Symfony2](https://github.com/EmanueleMinotto/awesome-symfony2)
 - [Laravel](https://github.com/chiraggude/awesome-laravel)
 - [Rails](https://github.com/ekremkaraca/awesome-rails)
+- [Rails Gem](https://github.com/hothero/awesome-rails-gem)
 - [Phalcon](https://github.com/sergeyklay/awesome-phalcon)
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess)
 - [nginx](https://github.com/fcambus/nginx-resources)
@@ -302,6 +304,11 @@ If you want to create your own list, please read the [create list instructions](
 - [GraphQL](https://github.com/chentsulin/awesome-graphql)
 - [Transit](https://github.com/luqmaan/awesome-transit)
 - [Research Tools](https://github.com/emptymalei/awesome-research)
+- [Niche Job Boards](https://github.com/wfhio/awesome-job-boards)
+- [Data Visualization](https://github.com/fasouto/awesome-dataviz)
+- [Social Media Share Links](https://github.com/vinkla/awesome-share-links)
+- [JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
+- [Microservices](https://github.com/mfornos/awesome-microservices)
 
 ## License
 
