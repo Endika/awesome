@@ -48,13 +48,16 @@ If you want to create your own list, please read the [create list instructions](
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 - [OS X](https://github.com/iCHAIT/awesome-osx)
+	- [Command-Line](https://github.com/herrbischoff/awesome-osx-command-line)
 - [watchOS](https://github.com/yenchenlin1994/awesome-watchos)
 - [JVM](https://github.com/deephacks/awesome-jvm)
+- [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
 
 
 ## Programming Languages
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
+	- [Promises](https://github.com/wbinnssmith/awesome-promises)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 - [Python](https://github.com/vinta/awesome-python)
 - [Rust](https://github.com/kud1ing/awesome-rust)
@@ -65,6 +68,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Ruby](https://github.com/markets/awesome-ruby)
 	- [Ruby Events](https://github.com/planetruby/awesome-events) *(Conferences, Meetups, etc.)*
 - [Clojure](https://github.com/razum2um/awesome-clojure)
+- [ClojureScript](https://github.com/emrehan/awesome-clojurescript)
 - [Elixir](https://github.com/h4cc/awesome-elixir)
 - [Elm](https://github.com/isRuslan/awesome-elm)
 - [Erlang](https://github.com/drobakowski/awesome-erlang)
@@ -102,7 +106,8 @@ If you want to create your own list, please read the [create list instructions](
 - [React](https://github.com/enaqx/awesome-react)
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Polymer](https://github.com/Granze/awesome-polymer)
-- [AngularJS](https://github.com/gianarb/awesome-angularjs)
+- [Angular 2](https://github.com/angular-class/awesome-angular2)
+- [Angular](https://github.com/gianarb/awesome-angularjs)
 - [Backbone](https://github.com/instanceofpro/awesome-backbone)
 - [HTML5](https://github.com/diegocard/awesome-html5)
 - [SVG](https://github.com/willianjusten/awesome-svg)
@@ -124,6 +129,7 @@ If you want to create your own list, please read the [create list instructions](
 - [CSS](https://github.com/sota0805/awesome-css)
 - [D3](https://github.com/wbkd/awesome-d3)
 - [Emails](https://github.com/jonathandion/awesome-emails)
+- [jQuery](https://github.com/peterkokot/awesome-jquery)
 
 
 ## Back-end Development
@@ -180,7 +186,8 @@ If you want to create your own list, please read the [create list instructions](
 
 - [Free Programming Books](https://github.com/vhf/free-programming-books)
 - [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
-- [GoBooks](https://github.com/dariubs/GoBooks)
+- [Go Books](https://github.com/dariubs/GoBooks)
+- [R Books](https://github.com/RomanTsegelskyi/rbooks)
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
 
 
@@ -227,6 +234,7 @@ If you want to create your own list, please read the [create list instructions](
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
+- [Neo4j](https://github.com/GraphGeeks/awesome-neo4j)
 
 
 ## Resources
@@ -242,6 +250,7 @@ If you want to create your own list, please read the [create list instructions](
 - [CLI Workshoppers/Adventures](https://github.com/therebelrobot/awesome-workshopper)
 - [Learn to Program](https://github.com/karlhorky/learn-to-program)
 - [Speaking](https://github.com/matteofigus/awesome-speaking)
+- [Tech Videos](https://github.com/lucasviola/awesome-tech-videos)
 
 
 ## Security
@@ -296,8 +305,8 @@ If you want to create your own list, please read the [create list instructions](
 - [Gulp](https://github.com/alferov/awesome-gulp)
 - [AMA](https://github.com/sindresorhus/amas) *(Ask Me Anything)*
 - [AMA-answers](https://github.com/stoeffel/awesome-ama-answers)
-- [GIF](https://github.com/Syskaw/awesome-gif)
-- [Open Source Photography](https://github.com/Syskaw/awesome-OpenSourcePhotography/)
+- [GIF](https://github.com/ibaaj/awesome-gif)
+- [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography/)
 - [OpenGL](https://github.com/eug/awesome-opengl)
 - [JavaScript Standard Style](https://github.com/feross/awesome-standard)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity)
@@ -309,9 +318,10 @@ If you want to create your own list, please read the [create list instructions](
 - [Social Media Share Links](https://github.com/vinkla/awesome-share-links)
 - [JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Microservices](https://github.com/mfornos/awesome-microservices)
+- [GitHub](https://github.com/phillipadsmith/awesome-github)
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
