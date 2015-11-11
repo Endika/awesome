@@ -27,7 +27,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Books](#books)
 - [Editors](#editors)
 - [Gaming](#gaming)
-- [Developer Environment](#developer-environment)
+- [Development Environment](#development-environment)
 - [Entertainment](#entertainment)
 - [Databases](#databases)
 - [Resources](#resources)
@@ -55,6 +55,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
 - [Windows](https://github.com/RiseLedger/awesome-windows)
+- [IPFS](https://github.com/ipfs/awesome-ipfs)
 
 
 ## Programming Languages
@@ -109,7 +110,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [React](https://github.com/enaqx/awesome-react)
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Polymer](https://github.com/Granze/awesome-polymer)
-- [Angular 2](https://github.com/angular-class/awesome-angular2)
+- [Angular 2](https://github.com/AngularClass/awesome-angular2)
 - [Angular](https://github.com/gianarb/awesome-angularjs)
 - [Backbone](https://github.com/instanceofpro/awesome-backbone)
 - [HTML5](https://github.com/diegocard/awesome-html5)
@@ -154,6 +155,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess)
 - [nginx](https://github.com/fcambus/nginx-resources)
 - [Dropwizard](https://github.com/stve/awesome-dropwizard)
+- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
 
 ## Computer Science
@@ -213,7 +215,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Open Source Games](https://github.com/leereilly/games)
 
 
-## Developer Environment
+## Development Environment
 
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 - [Dev Env](https://github.com/jondot/awesome-devenv)
