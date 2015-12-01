@@ -50,12 +50,14 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 - [OS X](https://github.com/iCHAIT/awesome-osx)
 	- [Command-Line](https://github.com/herrbischoff/awesome-osx-command-line)
+	- [Screensavers](https://github.com/aharris88/awesome-osx-screensavers)
 - [watchOS](https://github.com/yenchenlin1994/awesome-watchos)
 - [JVM](https://github.com/deephacks/awesome-jvm)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
 - [Windows](https://github.com/RiseLedger/awesome-windows)
 - [IPFS](https://github.com/ipfs/awesome-ipfs)
+- [Fuse](https://github.com/vinkla/awesome-fuse)
 
 
 ## Programming Languages
@@ -112,7 +114,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Polymer](https://github.com/Granze/awesome-polymer)
 - [Angular 2](https://github.com/AngularClass/awesome-angular2)
 - [Angular](https://github.com/gianarb/awesome-angularjs)
-- [Backbone](https://github.com/instanceofpro/awesome-backbone)
+- [Backbone](https://github.com/sadcitizen/awesome-backbone)
 - [HTML5](https://github.com/diegocard/awesome-html5)
 - [SVG](https://github.com/willianjusten/awesome-svg)
 - [Canvas](https://github.com/raphamorim/awesome-canvas)
@@ -170,6 +172,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) *(Neural networks)*
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
+- [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
 
 
 ## Big Data
@@ -213,6 +216,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Game Talks](https://github.com/hzoo/awesome-gametalks)
 - [Godot](https://github.com/Calinou/awesome-godot) *(Game engine)*
 - [Open Source Games](https://github.com/leereilly/games)
+- [Unity](https://github.com/RyanNielson/awesome-unity) *(Game engine)*
 
 
 ## Development Environment
@@ -251,6 +255,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Images](https://github.com/heyalexej/awesome-images)
 - [Fonts](https://github.com/brabadu/awesome-fonts)
 - [Codeface](https://github.com/chrissimpkins/codeface) *(Text editor fonts)*
+- [Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
 
 
 ## Learn
@@ -259,6 +264,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Learn to Program](https://github.com/karlhorky/learn-to-program)
 - [Speaking](https://github.com/matteofigus/awesome-speaking)
 - [Tech Videos](https://github.com/lucasviola/awesome-tech-videos)
+- [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 
 
 ## Security
@@ -332,6 +338,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
 - [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers)
+- [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
 
 
 ## License
