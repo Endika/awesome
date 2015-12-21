@@ -146,7 +146,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Flask](https://github.com/humiaozuzu/awesome-flask)
 - [Docker](https://github.com/veggiemonk/awesome-docker)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant)
-- [Pyramid](https://github.com/ITCase/awesome-pyramid)
+- [Pyramid](https://github.com/uralbash/awesome-pyramid)
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1)
 - [CakePHP](https://github.com/friendsofcake/awesome-cakephp)
 - [Symfony2](https://github.com/EmanueleMinotto/awesome-symfony2)
@@ -165,6 +165,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [University Courses](https://github.com/prakhar1989/awesome-courses)
 - [Data Science](https://github.com/okulbilisim/awesome-datascience)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
 - [Cryptography](https://github.com/MaciejCzyzewski/retter)
@@ -191,6 +192,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Algorithm Visualizations](https://github.com/enjalot/algovis)
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
+- [Competitive Coding](https://github.com/hkirat/awesome-competitive-coding)
 
 
 ## Books
@@ -217,6 +219,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Godot](https://github.com/Calinou/awesome-godot) *(Game engine)*
 - [Open Source Games](https://github.com/leereilly/games)
 - [Unity](https://github.com/RyanNielson/awesome-unity) *(Game engine)*
+- [Chess](https://github.com/hkirat/awesome-chess)
 
 
 ## Development Environment
@@ -276,6 +279,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Android Security](https://github.com/ashishb/android-security-awesome)
 - [Hacking](https://github.com/carpedm20/awesome-hacking)
 - [Honeypots](https://github.com/paralax/awesome-honeypots)
+- [Incident Response](https://github.com/meirwah/awesome-incident-response)
 
 
 ## Miscellaneous
@@ -339,7 +343,10 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
-
+- [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
+- [Spanish Natural Language Processing (NLP)](https://github.com/dav009/awesome-spanish-nlp)
+- [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
+- [Music](https://github.com/ciconia/awesome-music)
 
 ## License
 
